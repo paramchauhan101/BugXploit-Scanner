@@ -1,0 +1,6 @@
+{
+    "url": "www.google.com",
+    "results": {
+        "Error": "Invalid URL 'www.google.com': No scheme supplied. Perhaps you meant https://www.google.com?"
+    }
+}
